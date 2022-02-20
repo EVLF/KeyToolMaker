@@ -12,7 +12,7 @@ IF NOT : DOWNLOAD --> JAVA JDK
 ![image](https://user-images.githubusercontent.com/54191699/154862639-836dc0e6-b30b-479d-ae8f-496a328b699c.png)
 
 
-![image](https://user-images.githubusercontent.com/54191699/154862721-3cd66888-2c58-441e-a261-53888535ccdc.png)
+![image](https://user-images.githubusercontent.com/54191699/154863843-ae6d983b-d408-45ea-b7ad-942415da0cda.png)
 
 - - - - - - - - - - - - - - 
 
