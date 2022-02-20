@@ -10,7 +10,7 @@ Public Class KeytoolMaker
     Public FinalFolder As String = Application.StartupPath + "\" + "OUT"
     Public EVLFSIGN As String = vbNewLine + "-----------------------------" + vbNewLine + vbNewLine + " 
 This is free open source tool 
-Created By EVLF Using C# 
+    Created By EVLF Using VB.net 
 to Quickly Create Random Signing Keys For Apks
 - - - - - - - - - - - -
 https://github.com/EVLF"
