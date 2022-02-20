@@ -3,7 +3,7 @@ Quick Random Keystore Maker for signing apks
 
 - - - - - - - - - - - - - -
 
-**Make Sure To have** : "C:\Program Files\Java\jdk or jre [AnyVersion]\bin\**keytool.exe**"
+**Make Sure To have** : "C:\Program Files\Java\jdk or jre [AnyVersion]\bin\keytool.exe"
 
 IF NOT : DOWNLOAD --> JAVA JDK
 
